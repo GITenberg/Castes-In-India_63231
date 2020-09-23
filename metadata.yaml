@@ -1,0 +1,24 @@
+_repo: Castes-In-India_63231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambedkar, B. R. (Bhimrao Ramji)
+    alias: Ambedkar, Bhimrao Ramji
+    birthdate: 1891
+    deathdate: 1956
+    gutenberg_agent_id: '52301'
+    url: http://www.gutenberg.org/2009/agents/52301
+    wikipedia: https://en.wikipedia.org/wiki/B._R._Ambedkar
+description: ''
+gutenberg_issued: '2020-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Castes In India
+url: http://www.gutenberg.org/ebooks/63231
